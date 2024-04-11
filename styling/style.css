@@ -1,0 +1,151 @@
+
+body {
+font-family: montserrat,sans serif;
+}
+
+nav {
+    background-color:hsl(212, 20%, 18%)!important;
+    color: white !important;
+
+
+
+}
+/* header {
+    position: sticky !important;
+    top: 0;
+} */
+ul li a {
+    color: white !important;
+    font-family: montserrat;
+}
+
+ul li:hover  {
+    border-bottom: 2px solid greenyellow !important;
+
+    /* border-bottom: greenyellow 2px !important; */
+}
+ div .hero {
+    min-height: calc(100vh - 147px);
+    background-image: url('../Assets/images/background.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 0.8;
+
+    
+}
+
+div .hero:hover {
+    opacity: 1;
+
+}
+
+
+
+
+
+    .naz-sec .col-lg-3 {
+        padding:30px 15px !important;
+        /* border: 1px solid greenyellow; */
+    
+        background-color:#fff3f38f;
+        border-radius: 10px;
+        margin-bottom: 30px 10px;
+        
+
+    }
+
+    .naz-sec .col-lg-3:hover {
+
+        zoom: 1;
+        border: 2px solid grey;
+        border-radius: 15px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px !important; 
+    }
+    section .services {
+        min-height: calc(100vh - 100px) !important;
+     }
+     #goals {
+        padding: 20px 0px !important;
+        margin: 60px 0px !important;
+
+     }
+div .text-left button {
+    padding: 10px !important;
+    color:red;
+    opacity: 0.9;
+    border-radius: 8px;
+    background-color: rgba(200, 153, 91, 0.647);
+    font-size: 18px !important;
+    width: 200px !important;
+    height: 60px !important;
+}
+
+
+     .slid {
+        padding: 40px 0px !important;
+        margin: 60px 0px !important;
+     }
+
+     .Explore  .col-md-3 {
+        padding:  30px 5px !important;
+        margin: 4px 10px;
+        /* background-color: black; */
+        border-radius: 10px;
+        border: 1px solid gainsboro;
+        width: 360px !important;
+        color:white;
+        font-weight: bolder;
+        font-size: 22px !important;
+        /* height: 350px !important; */
+
+     }
+
+     .Explore  .col-md-3:hover {
+
+        zoom: 1;
+        border: 2px solid grey;
+        border-radius: 15px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px !important; 
+     }
+     .Explore {
+        /* height: 550px !important; */
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+     }
+
+
+     .Explore  .col-md-3 h2{
+        border-radius: 10px !important;
+        background-color: rgba(57, 148, 187, 0.768);
+        color: black;
+        padding: 2px !important;
+        border: 1px solid black;
+        width: 200px !important;
+        margin: 2px auto;
+        font-size: 2rem;
+
+     }
+     .Explore {
+        background-image: url('../Assets/images/pexels-cottonbro-studio-6214934.jpg');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        padding: 115px 0px !important;
+        margin: 110px 0px !important;
+        opacity: 0.9;
+     }
+     
+     .col-md-3{
+        text-align: center;
+     }
+     .my {
+        margin: 50px 0px !important;
+     }
+
+    
